@@ -1,0 +1,1 @@
+官网是：http://code.kik.com/app/2/index.html

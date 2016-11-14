@@ -1,0 +1,13 @@
+<meta name="viewport" content="width=device-width,
+                                   initial-scale=1.0,
+                                   maximum-scale=1.0,
+                                   user-scalable=no,
+                                   minimal-ui">
+
+iOS 7.1的Safari中为meta标签新增minimal-ui属性，让网页在加载时便可隐藏顶部的地址栏与底部的导航栏。
+
+这个是针对移动端浏览器写的一些页面属性，name="viewport" --这就是针对移动端浏览器，
+width=device-width--告诉浏览器页面的宽度应该等于设备的宽度，
+initial-scale=1.0---页面将是原本尺寸展示，如果后面是2.0的话，就是是将页面放大两倍，
+maximum-scale=1.0,---最大放大至原先大少，
+----user-scalable=0" 是禁止缩放！
